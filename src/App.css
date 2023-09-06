@@ -1,0 +1,16 @@
+body{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  background-color: rgb(14, 14, 28);
+  color: white;
+}
+.nav-header{
+  display: flex;
+  justify-content: right;
+  /* background-color: aquamarine; */
+}
+.nav-header .nav-home,.nav-upload{
+  margin-left: 20px;
+  padding: 10px;
+  text-decoration: none;
+  color: white;
+}
